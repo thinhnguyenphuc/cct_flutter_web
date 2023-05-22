@@ -20,6 +20,12 @@
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
+
+  <meta property="fb:app_id" content="616112276617474" />
+  <meta property="al:android:package" content="com.blisshub.concuatui" />
+  <meta property="al:android:app_name" content="ConCuaTui" />
+  <meta property="al:ios:url" content="'+ data.deeplink +'" />
+
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -34,7 +40,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = "2055322455";
+    var serviceWorkerVersion = '1199544682';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -54,6 +60,7 @@
         }
       });
     });
+    window.location = "'+ data.deeplink +';
   </script>
 </body>
 </html>
