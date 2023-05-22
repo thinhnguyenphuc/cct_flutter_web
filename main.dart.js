@@ -33047,7 +33047,7 @@ b_(){this.bp()},
 R(a){var s=null
 return new A.r4(new A.o4(new A.Gf(0,s,1/0,0),0,s),A.OQ(s,A.a3T(s,s,s,new A.eq(s,new A.x1(new A.o6($.Lx.ad()?"assets/background/landscape.jpg":"assets/background/portrait.jpg"),B.u2),s,s,s,s,B.aB),s,s,s),B.aD,!1,s,s,s,s,s,s,s,s,s,s,new A.a_q(),s,s,s,s,s,s),s)}}
 A.a_q.prototype={
-$0(){if($.Lw.ad())A.a2O(A.mW("https://play.google.com/store/apps/details?id=com.blisshub.concuatui",0,null))
+$0(){if($.Lw.ad())A.a2O(A.mW("https://link.concuatui.com/HWkw",0,null))
 else if($.Ly.ad())A.a2O(A.mW("https://apps.apple.com/app/id1661619011",0,null))},
 $S:0}
 A.yq.prototype={
